@@ -5,7 +5,7 @@ var tbutikk = require("./gen-nodejs/butikk_types");
 var data = {};
 
 var server = thrift.createServer(Butikk, {
-	harVare: function(id) {
+	harVare: function(id, result) {
 		console.log("harVare: " + id);
 		result(true);
 	}

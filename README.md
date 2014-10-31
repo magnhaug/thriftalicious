@@ -23,8 +23,11 @@ Link til oppgaver: https://nanna.bekk.no/confluence/display/BEKK/Thrift
 * Basert på standarder (åpne/lukkede/finnes ingen)
 * Teknologi-agnostisk 
 * Testbar
-* Godt dokumentert
+* Godt dokumentert:
+  På ingen måte. Til tider feildokumentert. Lite eksempler på fullstack "enterprise" bruk.
 * Moden
+  Ja. I stor bruk hos mange aktører.
+  Brukt hos: Facebook, Evernote, LastFM, Simens.
 * Utviklingsvennlig
 * Simpel/enkel (basert på erfaringer i dag)
 * Transparent (enkelt å se hva som skjer)

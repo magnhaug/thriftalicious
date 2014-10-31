@@ -1,6 +1,8 @@
 thriftalicious
 ==============
 
+Link til oppgaver: https://intern.bekk.no/Portal/Informasjon/Confluence/
+
 ## Case: Utfør et kjøp av en vare
 * Funksjonelle problemstillinger:
 * Kjøpe samme varen to ganger på rad

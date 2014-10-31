@@ -7,7 +7,10 @@ Link til oppgaver: https://nanna.bekk.no/confluence/display/BEKK/Thrift
 * Funksjonelle problemstillinger:
 * Kjøpe samme varen to ganger på rad
 * To forskjellige kjøper samme vare
+  Thrift har ingen formening om message-semantikk. Man kan legge en message-queue på toppen av thrift. 
+
 * Støtte flere ulike klienter
+  
 * Støtte flere versjoner av ordreformat
 * Bekreftelse på kjøp
 * Flere?

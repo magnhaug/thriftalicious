@@ -21,7 +21,9 @@ Link til oppgaver: https://nanna.bekk.no/confluence/display/BEKK/Thrift
 ## Er teknologien/stilen/mønsteret:
 * (Disse bør en kunne svare på i løpet av dagen)
 * Basert på standarder (åpne/lukkede/finnes ingen)
-* Teknologi-agnostisk 
+  Har sin egen standard
+* Teknologi-agnostisk
+  Ja. Kan generere typer og interface (klient og server) for de fleste aktuelle språk.
 * Testbar
 * Godt dokumentert:
   På ingen måte. Til tider feildokumentert. Lite eksempler på fullstack "enterprise" bruk.
@@ -30,6 +32,8 @@ Link til oppgaver: https://nanna.bekk.no/confluence/display/BEKK/Thrift
   Brukt hos: Facebook, Evernote, LastFM, Simens.
 * Utviklingsvennlig
 * Simpel/enkel (basert på erfaringer i dag)
+  Rent kodemessig er det få ting du må kjenne til. Ser ikke ut til å ta over kodebasen i noen større grad enn f.eks. Jersey.
+  Må riktig kunne Thrift-DSL-et for å kunne få generert typer og klasser, men det er vel en trade-off mot at du kan bruke ulike språk mot samme type.
 * Transparent (enkelt å se hva som skjer)
 * Flere?
 

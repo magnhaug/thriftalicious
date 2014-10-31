@@ -1,7 +1,7 @@
 thriftalicious
 ==============
 
-Link til oppgaver: https://intern.bekk.no/Portal/Informasjon/Confluence/
+Link til oppgaver: https://nanna.bekk.no/confluence/display/BEKK/Thrift
 
 ## Case: Utfør et kjøp av en vare
 * Funksjonelle problemstillinger:
